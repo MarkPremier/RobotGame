@@ -1,0 +1,15 @@
+C:\Users\spark\OneDrive\Documents\Code\RobotDodgeRobot\bin\Debug\netcoreapp6.0\RobotDodgeRobot.exe
+C:\Users\spark\OneDrive\Documents\Code\RobotDodgeRobot\bin\Debug\netcoreapp6.0\RobotDodgeRobot.deps.json
+C:\Users\spark\OneDrive\Documents\Code\RobotDodgeRobot\bin\Debug\netcoreapp6.0\RobotDodgeRobot.runtimeconfig.json
+C:\Users\spark\OneDrive\Documents\Code\RobotDodgeRobot\bin\Debug\netcoreapp6.0\RobotDodgeRobot.dll
+C:\Users\spark\OneDrive\Documents\Code\RobotDodgeRobot\bin\Debug\netcoreapp6.0\RobotDodgeRobot.pdb
+C:\Users\spark\OneDrive\Documents\Code\RobotDodgeRobot\obj\Debug\netcoreapp6.0\RobotDodgeRobot.csproj.AssemblyReference.cache
+C:\Users\spark\OneDrive\Documents\Code\RobotDodgeRobot\obj\Debug\netcoreapp6.0\RobotDodgeRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spark\OneDrive\Documents\Code\RobotDodgeRobot\obj\Debug\netcoreapp6.0\RobotDodgeRobot.AssemblyInfoInputs.cache
+C:\Users\spark\OneDrive\Documents\Code\RobotDodgeRobot\obj\Debug\netcoreapp6.0\RobotDodgeRobot.AssemblyInfo.cs
+C:\Users\spark\OneDrive\Documents\Code\RobotDodgeRobot\obj\Debug\netcoreapp6.0\RobotDodgeRobot.csproj.CoreCompileInputs.cache
+C:\Users\spark\OneDrive\Documents\Code\RobotDodgeRobot\obj\Debug\netcoreapp6.0\RobotDodgeRobot.dll
+C:\Users\spark\OneDrive\Documents\Code\RobotDodgeRobot\obj\Debug\netcoreapp6.0\refint\RobotDodgeRobot.dll
+C:\Users\spark\OneDrive\Documents\Code\RobotDodgeRobot\obj\Debug\netcoreapp6.0\RobotDodgeRobot.pdb
+C:\Users\spark\OneDrive\Documents\Code\RobotDodgeRobot\obj\Debug\netcoreapp6.0\RobotDodgeRobot.genruntimeconfig.cache
+C:\Users\spark\OneDrive\Documents\Code\RobotDodgeRobot\obj\Debug\netcoreapp6.0\ref\RobotDodgeRobot.dll
